@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "first_name": "Karlotte",
+        "last_name": "Nockalls",
+        "email": "knockalls0@thetimes.co.uk",
+        "gender": "Female",
+        "job_title": "Database Administrator I"
+    },
+    {
+        "id": 3,
+        "first_name": "Felice",
+        "last_name": "Fourman",
+        "email": "ffourman2@twitpic.com",
+        "gender": "Female",
+        "job_title": "Nurse"
+    },
+    {
+        "id": 4,
+        "first_name": "bais",
+        "last_name": "Bais",
+        "email": "yashbais@gmail.com",
+        "gender": "23",
+        "job_title": "Software dev"
+    },
+    {
+        "id": 5,
+        "first_name": "yash",
+        "last_name": "Bais",
+        "email": "yashbais@gmail.com",
+        "gender": "23",
+        "job_title": "Software dev"
+    },
+    {
+        "id": 5,
+        "first_name": "yash",
+        "last_name": "Bais",
+        "email": "yashbais@gmail.com",
+        "gender": "23",
+        "job_title": "Software dev"
+    },
+    {
+        "id": 6,
+        "first_name": "yash",
+        "last_name": "Bais",
+        "email": "yashbais@gmail.com",
+        "gender": "23",
+        "job_title": "Software dev"
+    }
+]
